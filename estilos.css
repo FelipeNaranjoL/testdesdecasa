@@ -1,0 +1,36 @@
+span{
+    background-color: cyan;
+    color:  red;
+    padding: auto;
+    border: 1px  solid black;
+}
+
+footer{
+    text-align: center;
+    color: blue;
+    background-color: tomato;
+    border: 5 black;
+}
+
+.portada{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.titulo{
+    text-align: center;
+    border: 2px dashed black ;
+}
+.titulo_navegador{
+    text-align: center;
+    color: orange;
+}
+
+.contenido_header{
+    text-align: center;
+}
+
+.imagen_navegador{
+    width: 7%;
+}
